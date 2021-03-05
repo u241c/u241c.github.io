@@ -1,6 +1,6 @@
 # Newsfeed
 
-A simple web app that pulls up all current news articles
+A simple web app that pulls Url news articles the "The Guardian". The Guardian is British news.
 
 ## Technologies used
 - HTML5
@@ -15,6 +15,9 @@ A simple web app that pulls up all current news articles
 
 ## Getting started
 
-[click](#) here to get started and see the app online! 
+[click] (https://u241c.github.io) here to get started and see the app online! 
 
 ## Future Enhancements
+
+To make cards were user can pull up Urls, images, etc..
+
