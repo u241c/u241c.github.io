@@ -1,6 +1,6 @@
 # Newsfeed
 
-A simple web app that pulls Url news articles the "The Guardian". The Guardian is British news.
+A simple web app that pulls Url news articles the "The Guardian". The Guardian is British news which is owned by the Scott Trust Limited. The Guadian targets well educated liberal audience an average age of 44.
 
 ## Technologies used
 - HTML5
@@ -19,5 +19,5 @@ A simple web app that pulls Url news articles the "The Guardian". The Guardian i
 
 ## Future Enhancements
 
-To make cards were user can pull up Urls, images, etc..
+To make cards were user can pull up Urls, images, etc.. To be user friendly on mobile devices.
 
