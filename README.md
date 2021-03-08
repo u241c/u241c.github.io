@@ -1,6 +1,7 @@
 # Newsfeed
 
-A simple web app that pulls Url news articles the "The Guardian". The Guardian is British news which is owned by the Scott Trust Limited. The Guadian targets well educated liberal audience an average age of 44.
+A simple web app that pulls Url news articles from the "The Guardian". "The Guardian" is British news, which is owned by the Scott Trust Limited. The Guadian's demographic target is well educated liberal audience with the average age of 44.
+Simply place your desired topic of interest in the empty container, press search and enjoy news articles from "The Guardian".
 
 ## Technologies used
 - HTML5
