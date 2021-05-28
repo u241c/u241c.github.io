@@ -29,6 +29,7 @@ function getData(e){
           console.log('error: ',error);
     });
 }
+// render to display 
 
 function render(){
     const articles = newsData.response.results.map(function(news) {
